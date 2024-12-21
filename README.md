@@ -6,7 +6,7 @@ To implement  4 Bit Ripple Counter using verilog and validating their functional
 
 **SOFTWARE REQUIRED:**
 
-Quartus prime
+Quartus prime 
 
 **THEORY**
 
